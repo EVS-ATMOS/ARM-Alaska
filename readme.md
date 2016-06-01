@@ -7,4 +7,7 @@ Google map location of Oliktok LRRS Airport
 
 Current forecast for OLI from the [National Weather Service](http://forecast.weather.gov/MapClick.php?lon=-149.85509287064073&lat=70.48565530928585#.V08o62YTK74 "click for forecast").
 
+Weather Observations from Ugnu-Kuparuk airfield 12 miles to the SSE of OLI [from the NWS](http://w1.weather.gov/data/obhistory/PAKU.html "Click").
+
+Weather Observations from Nuiqsut Airport 40 miles to the SW of OLI [from the NWS](http://w1.weather.gov/data/obhistory/PAQT.html "Click").
 
