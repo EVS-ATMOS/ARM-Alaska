@@ -11,3 +11,5 @@ Weather Observations from Ugnu-Kuparuk airfield 12 miles to the SSE of OLI [from
 
 Weather Observations from Nuiqsut Airport 40 miles to the SW of OLI [from the NWS](http://w1.weather.gov/data/obhistory/PAQT.html "Click").
 
+Latest MSLP chart [From WPC at NCEP](http://www.wpc.ncep.noaa.gov/sfc/namaksfcwbg.gif "CLick"). 
+
