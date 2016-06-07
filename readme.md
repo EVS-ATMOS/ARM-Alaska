@@ -23,3 +23,5 @@ Latest MSLP chart [From WPC at NCEP](http://www.wpc.ncep.noaa.gov/sfc/namaksfcwb
 
 ARM Sounding launches directory [listings](http://plot.dmf.arm.gov/PLOTS/OLI/olisondewnpn/ "click").
 
+ARM Sky cover from the TSI directory [listings](http://plot.dmf.arm.gov/PLOTS/OLI/olitsiskycover/ "click").
+
