@@ -6,14 +6,18 @@ Introduction and Aims
 =====================
 The Ka-Band Zenith Pointing Radar (KaZR) was deployed as part of an ARM Mobile
 Facility three (AMF3) deployment to Oliktok Point on the North Slope of Alaska.
-Figure 1 shows a time height plot of reflectivity factor from the KaZR.
+Figure 1 shows a time height plot of reflectivity factor from the KaZR with a
+number of indicator of clouds co-plotted.
 
-.. figure:: ./refl.png
-   :scale: 200 %
+.. figure:: ./uber.png
+   :scale: 40 %
    :alt: Ka Band reflectivity
    
-   Figure 1: Time height plot of reflectivity. Note the clutter at 1,500 meters. 
-
+   Figure 1: Time height plot of reflectivity with cloud base heights from the 
+   Ceilometer overlaid in the top panel. The Total Sky imager derived cloud 
+   cover for thick and opaque clouds is in the lower panel. Note the constant 
+   signals around 1km due to clutter. 
+   
 Clutter can be seen as a constant signal at around 1,500 meters above the radar. 
 The aim of this task is to produce a map of affected gates and to study the
 temporal variability and impact on overlaid meteorological signals. There will
