@@ -1,7 +1,7 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 6 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 6 0 R /F4 9 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
@@ -25,36 +25,54 @@ endobj
 << /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 7 0 obj
-<< /Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.cfa31f9015e79e3e4aa98e9eb2724b93 4 0 R >> >> /Rotate 0 /Trans <<  >> 
+<< /Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.cfa31f9015e79e3e4aa98e9eb2724b93 4 0 R >> >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 8 0 obj
-<< /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 9 0 obj
-<< /Outlines 11 0 R /PageLabels 18 0 R /PageMode /UseNone /Pages 15 0 R /Type /Catalog >>
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
 endobj
 10 0 obj
-<< /Author () /CreationDate (D:20160817161115+06'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160817161115+06'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Design for Clutter Analysis for the OLI KaZR) /Trapped /False >>
+<< /Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 11 0 obj
-<< /Count 3 /First 12 0 R /Last 14 0 R /Type /Outlines >>
+<< /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 12 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 729.0236 0 ] /Next 13 0 R /Parent 11 0 R /Title (Introduction and Aims) >>
+<< /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 13 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 258.0236 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (Methodology) >>
+<< /Outlines 15 0 R /PageLabels 26 0 R /PageMode /UseNone /Pages 20 0 R /Type /Catalog >>
 endobj
 14 0 obj
-<< /Dest [ 8 0 R /XYZ 62.69291 765.0236 0 ] /Parent 11 0 R /Prev 13 0 R /Title (Effort, Staff and Impact) >>
+<< /Author () /CreationDate (D:20160818112107+06'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160818112107+06'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Design for Clutter Analysis for the OLI KaZR) /Trapped /False >>
 endobj
 15 0 obj
-<< /Count 2 /Kids [ 7 0 R 8 0 R ] /Type /Pages >>
+<< /Count 4 /First 16 0 R /Last 19 0 R /Type /Outlines >>
 endobj
 16 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 729.0236 0 ] /Next 17 0 R /Parent 15 0 R /Title (Introduction and Aims) >>
+endobj
+17 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 258.0236 0 ] /Next 18 0 R /Parent 15 0 R /Prev 16 0 R /Title (Methodology) >>
+endobj
+18 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 765.0236 0 ] /Next 19 0 R /Parent 15 0 R /Prev 17 0 R /Title (Effort, Staff and Impact) >>
+endobj
+19 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 765.0236 0 ] /Parent 15 0 R /Prev 18 0 R /Title (Example DoD) >>
+endobj
+20 0 obj
+<< /Count 5 /Kids [ 7 0 R 8 0 R 10 0 R 11 0 R 12 0 R ] /Type /Pages >>
+endobj
+21 0 obj
 << /Length 3288 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -135,7 +153,7 @@ Q
  
 endstream
 endobj
-17 0 obj
+22 0 obj
 << /Length 604 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -155,43 +173,153 @@ Q
  
 endstream
 endobj
-18 0 obj
-<< /Nums [ 0 19 0 R 1 20 0 R ] >>
+23 0 obj
+<< /Length 3388 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Example DoD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 86.82362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 576 648 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 626 Tm /F4 10 Tf 12 TL (netcdf test_mean {) Tj T* (dimensions:) Tj T* (    time = UNLIMITED ; // \(1 currently\)) Tj T* (    range = 607 ;) Tj T* (    sweep = 1 ;) Tj T* (    string_length = 32 ;) Tj T* (    frequency = 1 ;) Tj T* (variables:) Tj T* (    double time\(time\) ;) Tj T* (        string time:long_name = "Time offset from midnight" ;) Tj T* (        string time:units = "seconds since 2016-06-20 00:00:00 0:00" ;) Tj T* (        string time:comment = "times are relative to the volume start time" ;) Tj T* (        string time:standard_name = "time" ;) Tj T* (        string time:calendar = "gregorian" ;) Tj T* (    float range\(range\) ;) Tj T* (        string range:long_name = "Range to measurement volume" ;) Tj T* (        string range:units = "m" ;) Tj T* (        range:meters_to_center_of_first_gate = 57.29303f ;) Tj T* (        string range:spacing_is_constant = "true" ;) Tj T* (        string range:standard_name = "projection_range_coordinate" ;) Tj T* (        range:meters_between_gates = 29.97925f ;) Tj T* (        string range:axis = "radial_range_coordinate" ;) Tj T* (    float azimuth\(time\) ;) Tj T* (        string azimuth:long_name = "Azimuth angle from true north" ;) Tj T* (        string azimuth:units = "degree" ;) Tj T* (        string azimuth:standard_name = "ray_azimuth_angle" ;) Tj T* (        string azimuth:axis = "radial_azimuth_coordinate" ;) Tj T* (    float elevation\(time\) ;) Tj T* (        string elevation:long_name = "Elevation angle from horizontal plane" ;) Tj T* (        string elevation:units = "degree" ;) Tj T* (        string elevation:standard_name = "ray_elevation_angle" ;) Tj T* (        string elevation:axis = "radial_elevation_coordinate" ;) Tj T* (    float daily_mean_snr\(time, range\) ;) Tj T* (        daily_mean_snr:long_name = "Mean SNR across sunny periods" ;) Tj T* (        daily_mean_snr:units = "dB" ;) Tj T* (        daily_mean_snr:_FillValue = -9999.f ;) Tj T* (        daily_mean_snr:standard_name = "signal_to_noise_ratio" ;) Tj T* (        daily_mean_snr:valid_min = -100L ;) Tj T* (        daily_mean_snr:valid_max = 100L ;) Tj T* (    int sweep_number\(sweep\) ;) Tj T* (        string sweep_number:long_name = "Sweep number, zero-based count" ;) Tj T* (        string sweep_number:units = "count" ;) Tj T* (    float fixed_angle\(sweep\) ;) Tj T* (        string fixed_angle:long_name = "Target angle for sweep" ;) Tj T* (        string fixed_angle:units = "degree" ;) Tj T* (    int sweep_start_ray_index\(sweep\) ;) Tj T* (        string sweep_start_ray_index:long_name = "Time index of first ray in sweep, 0-based" ;) Tj T* (        string sweep_start_ray_index:units = "count" ;) Tj T* (    int sweep_end_ray_index\(sweep\) ;) Tj T* (        string sweep_end_ray_index:long_name = "Time index of last ray in sweep, 0-based" ;) Tj T* (        string sweep_end_ray_index:units = "count" ;) Tj T* (    char sweep_mode\(sweep, string_length\) ;) Tj T* (        string sweep_mode:long_name = "Scan mode for sweep" ;) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
 endobj
-19 0 obj
+24 0 obj
+<< /Length 3703 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 79.82362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 594 684 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 662 Tm /F4 10 Tf 12 TL (        string sweep_mode:units = "unitless" ;) Tj T* (        string sweep_mode:comment = "possible values: possible values: sector, coplane,) Tj T* (            rhi, vertical_pointing, idle, azimuth_surveillance, elevation_surveillance, sunscan,) Tj T* (            pointing, manual_ppi, manual_rhi" ;) Tj T* (    float radar_beam_width_h ;) Tj T* (        string radar_beam_width_h:long_name = "Half-power radar beam width, horizontal channel" ;) Tj T* (        string radar_beam_width_h:units = "degree" ;) Tj T* (        string radar_beam_width_h:meta_group = "radar_parameters" ;) Tj T* (    int n_samples\(time\) ;) Tj T* (        string n_samples:long_name = "Number of samples used to compute moments" ;) Tj T* (        string n_samples:units = "unitless" ;) Tj T* (        string n_samples:meta_group = "instrument_parameters" ;) Tj T* (    float unambiguous_range\(time\) ;) Tj T* (        string unambiguous_range:long_name = "Unambiguous range" ;) Tj T* (        string unambiguous_range:units = "m" ;) Tj T* (        string unambiguous_range:meta_group = "instrument_parameters" ;) Tj T* (    float prt\(time\) ;) Tj T* (        string prt:long_name = "Pulse repetition time" ;) Tj T* (        string prt:units = "s" ;) Tj T* (        string prt:standard_name = "pulse_repetition_time" ;) Tj T* (        string prt:meta_group = "instrument_parameters" ;) Tj T* (    float frequency\(frequency\) ;) Tj T* (        string frequency:long_name = "Operating frequency" ;) Tj T* (        string frequency:units = "Hz" ;) Tj T* (        string frequency:meta_group = "instrument_parameters" ;) Tj T* (    float nyquist_velocity\(time\) ;) Tj T* (        string nyquist_velocity:long_name = "Unambiguous Doppler velocity" ;) Tj T* (        string nyquist_velocity:units = "m/s" ;) Tj T* (        string nyquist_velocity:meta_group = "instrument_parameters" ;) Tj T* (    float pulse_width\(time\) ;) Tj T* (        string pulse_width:long_name = "Pulse width" ;) Tj T* (        string pulse_width:units = "s" ;) Tj T* (        string pulse_width:meta_group = "instrument_parameters" ;) Tj T* (    float radar_beam_width_v ;) Tj T* (        string radar_beam_width_v:long_name = "Half-power radar beam width, vertical channel" ;) Tj T* (        string radar_beam_width_v:units = "degree" ;) Tj T* (        string radar_beam_width_v:meta_group = "radar_parameters" ;) Tj T* (    double latitude ;) Tj T* (        string latitude:long_name = "Latitude" ;) Tj T* (        string latitude:units = "degree_N" ;) Tj T* (        string latitude:standard_name = "latitude" ;) Tj T* (    double longitude ;) Tj T* (        string longitude:long_name = "Longitude" ;) Tj T* (        string longitude:units = "degree_E" ;) Tj T* (        string longitude:standard_name = "longitude" ;) Tj T* (    double altitude ;) Tj T* (        string altitude:long_name = "Altitude" ;) Tj T* (        string altitude:units = "m" ;) Tj T* (        string altitude:standard_name = "altitude" ;) Tj T* (    double altitude_agl ;) Tj T* (        string altitude_agl:long_name = "Height of radar antenna above ground level" ;) Tj T* (        string altitude_agl:units = "m" ;) Tj T* (        string altitude_agl:standard_name = "height" ;) Tj T* (    char time_coverage_start\(string_length\) ;) Tj T* (        time_coverage_start:long_name = "UTC time of first ray in the file" ;) Tj T* (        time_coverage_start:units = "unitless" ;) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+25 0 obj
+<< /Length 2616 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 247.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 576 516 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 494 Tm /F4 10 Tf 12 TL (    char time_coverage_end\(string_length\) ;) Tj T* (        time_coverage_end:long_name = "UTC time of last ray in the file" ;) Tj T* (        time_coverage_end:units = "unitless" ;) Tj T* (    char time_reference\(string_length\) ;) Tj T* (        time_reference:long_name = "UTC time reference" ;) Tj T* (        time_reference:units = "unitless" ;) Tj T* (    int volume_number ;) Tj T* (        volume_number:long_name = "Volume number" ;) Tj T* (        volume_number:units = "unitless" ;) Tj T* (    char platform_type\(string_length\) ;) Tj T* (        platform_type:long_name = "Platform type" ;) Tj T* (    char instrument_type\(string_length\) ;) Tj T* (        instrument_type:long_name = "Instrument type" ;) Tj T* (    char primary_axis\(string_length\) ;) Tj T* (        primary_axis:long_name = "Primary axis" ;) Tj T*  T* (// global attributes:) Tj T* (        :data_level = "f1" ;) Tj T* (        string :attenuation_applied = "4.00 dB  " ;) Tj T* (        string :site_id = "oli" ;) Tj T* (        string :antenna_altitude = "3.81 m" ;) Tj T* (        string :facility_id = "M1" ;) Tj T* (        string :institution = "Department of Energy Atmospheric) Tj T* (                Radiation Measurement Program" ;) Tj T* (        :process_version = "0.1-daily-clutter" ;) Tj T* (        :datastream = "olikazrclutter.f1" ;) Tj T* (        :title = "KaZR2 clutter analysis" ;) Tj T* (        string :operating_mode_description = "General mode, less sensitive but full) Tj T* (                range coverage  " ;) Tj T* (        :command_line = "TBD.py" ;) Tj T* (        string :antenna_diameter = "1.81 m" ;) Tj T* (        string :Conventions = "CF/Radial instrument_parameters radar_parameters" ;) Tj T* (        string :platform_id = "kazrge" ;) Tj T* (        string :kazr2_software_version = "1.1-10" ;) Tj T* (        string :location_description = "North Slope of Alaska \(NSA\), Oliktok Point, Alaska" ;) Tj T* (        string :operating_mode = "ge  " ;) Tj T* (        :input_source = "/data/radar/oli_kazr/olikazrgeM1.a1.20160620.000001.nc" ;) Tj T* (        string :radar_version = "KAZR-2" ;) Tj T* (        :field_names = "daily_mean_snr" ;) Tj T* (        :history = "created by user scollis on machine evs351996 at 2016-08-18 11:13:00, using) Tj T* (                Jupyter notebook" ;) Tj T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+26 0 obj
+<< /Nums [ 0 27 0 R 1 28 0 R 2 29 0 R 3 30 0 R 4 31 0 R ] >>
+endobj
+27 0 obj
 << /S /D /St 1 >>
 endobj
-20 0 obj
+28 0 obj
 << /S /D /St 2 >>
 endobj
+29 0 obj
+<< /S /D /St 3 >>
+endobj
+30 0 obj
+<< /S /D /St 4 >>
+endobj
+31 0 obj
+<< /S /D /St 5 >>
+endobj
 xref
-0 21
+0 32
 0000000000 65535 f
 0000000075 00000 n
-0000000129 00000 n
-0000000239 00000 n
-0000000354 00000 n
-0000391656 00000 n
-0000392093 00000 n
-0000392211 00000 n
-0000392483 00000 n
-0000392692 00000 n
-0000392800 00000 n
-0000393106 00000 n
-0000393183 00000 n
-0000393308 00000 n
-0000393436 00000 n
-0000393564 00000 n
-0000393633 00000 n
-0000396978 00000 n
-0000397638 00000 n
-0000397691 00000 n
-0000397728 00000 n
+0000000139 00000 n
+0000000249 00000 n
+0000000364 00000 n
+0000391666 00000 n
+0000392103 00000 n
+0000392221 00000 n
+0000392493 00000 n
+0000392702 00000 n
+0000392810 00000 n
+0000393020 00000 n
+0000393230 00000 n
+0000393440 00000 n
+0000393549 00000 n
+0000393855 00000 n
+0000393932 00000 n
+0000394057 00000 n
+0000394185 00000 n
+0000394326 00000 n
+0000394442 00000 n
+0000394532 00000 n
+0000397877 00000 n
+0000398537 00000 n
+0000401982 00000 n
+0000405742 00000 n
+0000408415 00000 n
+0000408495 00000 n
+0000408532 00000 n
+0000408569 00000 n
+0000408606 00000 n
+0000408643 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\004\235_\366H\320\306\357\022q\277\003HV\331\023) (\004\235_\366H\320\306\357\022q\277\003HV\331\023)]
- /Info 10 0 R /Root 9 0 R /Size 21 >>
+ [(\312\007P\364i\033\204\020n\273\250\315S\210T\012) (\312\007P\364i\033\204\020n\273\250\315S\210T\012)]
+ /Info 14 0 R /Root 13 0 R /Size 32 >>
 startxref
-397765
+408680
 %%EOF
