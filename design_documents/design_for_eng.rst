@@ -39,6 +39,42 @@ signal in a clutter impacted gate and look at the radar Doppler spectrum to see
 just how severely impacted weather returns are and if we may be able subtract
 the clutter signal from meteorological return and recalculate the moments.
 
+The final product, a CF-Radial file that has one ray that has 1's in a gate
+which is potentially impacted by clutter and 0's in clutter free gates will be
+calculated in two steps:
+
+First a summary file will be created for each day from the KaZR data file that will
+contain the mean (averaged in time, so length n_gates) signal to noise ratio. On
+days that are not cloudy all day (again from the ceilometer and TSI) the file
+will also contain the minimum SNR (figure 2) and also the conditionally averaged
+SNR during sunny periods (figure 3).
+
+.. figure:: ./min_snr.png
+   :scale: 40 %
+   :alt: Ka Band reflectivity
+   
+   Figure 2: Minimum Signal to Noise Ratio (SNR) for a given gate taken over all
+   day the radar file was collected. Easily isolated background signal from
+   cloud returns however may minumize time varying clutter signal.
+
+Second, a function will be written that can look at a date range of these
+summary files and look at the stability of the mean and minimum SNR signals and
+will produce a CF-Radial file with a single field containing the clutter mask
+that can easily be appended to a b1 level file. 
+
+
+.. figure:: ./mean_snr_sunny.png
+   :scale: 40 %
+   :alt: Ka Band reflectivity
+   
+   Figure 3: SNR signal conditionally averaged on sunny regions. In this test
+   case sunny was defined as no first cloud base height being detected by the
+   ceilometer. Red sections of the plot show parts of the profile that may be
+   tagged as being clutter contaminated. This is an example only, final tagging
+   will be based on looking at the day-to-day variability of the mean, minimum
+   and conditional sunny mean SNR.
+
+
 Effort, Staff and Impact
 ========================
 This task will be carried out by Scott Collis at Argonne National Laboratory. We
@@ -46,8 +82,9 @@ expect it to take 60 hours of effort and be delivered by October 1st 2016. There
 is no impact on operations, however the work will delay other products work
 being carried out by Translator team at Argonne. 
 
-Example DoD
-===========
+DoD for Summary Files
+=====================
+
 .. code-block:: guess
 
     netcdf test_mean {
@@ -201,4 +238,5 @@ Example DoD
             :history = "created by user scollis on machine evs351996 at 2016-08-18 11:13:00, using 
                     Jupyter notebook" ;
     }
+
 
